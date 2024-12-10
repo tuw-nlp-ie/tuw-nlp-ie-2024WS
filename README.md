@@ -30,7 +30,7 @@ Date|Lecture|Project|
 11/29/2024 | [Syntax: constituency and dependency](lectures/06_Syntax) | |
 12/06/2024 | [Semantics: overview](lectures/07_Semantics) | |
 12/13/2024 | [Information Extraction](lectures/08_Information_Extraction) | Milestone 2 deadline |
-12/20/2024 | [Summarization and keyword extraction](lectures/09_Summarization) | Review meetings (9.00 - 13:00) |
+12/20/2024 | [Summarization and keyword extraction](lectures/09_Summarization) | Review meetings (8.00 - 12:00) |
 1/10/2025 | [Annotation basics and challenges](lectures/10_Annotation) | |
 1/17/2025 | | Final presentations (13.00 - 17.00) |
 1/24/2025 | | Deadline for final submission |
